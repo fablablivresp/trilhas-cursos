@@ -1,0 +1,40 @@
+body {
+	background: #b2b2b2 url(img/overlay.png);
+  font-family: 'Share Tech Mono', monospace;
+  color: #fff;
+  margin: 0 auto;
+}
+
+#fablablivresp {
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+}
+
+#fablablivresp img {
+	height: 6vw;
+}
+
+h1 {
+  position: fixed;
+  top: 25px;
+  left: 25px;
+  background-color: #0d293c;
+  padding: 2px;
+  font-size: 1vw;
+  margin: 0;
+
+}
+
+#chart {
+  width: 100vw;
+  height: 100vh;
+}
+
+@media screen and (max-aspect-ratio: 9/10) {
+
+	#fablablivresp {
+		display: none;
+	}
+
+}
