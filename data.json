@@ -1,0 +1,67 @@
+{
+  "fabricacaodigital" : {
+    "name" : "Fabricação Digital",
+    "connections" : []
+  },
+
+  "impressao3d" : {
+    "name" : "Impressão 3D",
+    "conections" : []
+  },
+
+  "laser" : {
+    "name" : "Máquina de Corte a Laser",
+    "conections" : []
+  },
+
+  "usinagemcnc" : {
+    "name" : "Usinagem CNC",
+    "conections" : []
+  },
+
+  "plotterderecorte" : {
+    "name" : "Plotter de Recorte",
+    "conections" : []
+  },
+
+  "marcenaria" : {
+    "name" : "Marcenaria",
+    "conections" : []
+  },
+
+  "eletronica" : {
+    "name" : "Eletrônica",
+    "conections" : []
+  },
+
+  "programacao" : {
+    "name" : "Programação",
+    "conections" : []
+  },
+
+  "arduino" : {
+    "name" : "Arduino",
+    "conections" : []
+  },
+
+  "silicone" : {
+    "name" : "Molde de Silicone",
+    "conections" : []
+  },
+
+  "costura" : {
+    "name" : "Costura",
+    "conections" : []
+  },
+
+  "serigrafia" : {
+    "name" : "Serigrafia",
+    "conections" : []
+  },
+
+  "prototipagem" : {
+    "name" : "Prototipagem",
+    "conections" : []
+  }
+
+}
